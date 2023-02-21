@@ -1,0 +1,69 @@
+:root {
+    background: #feffdf;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 4 em;
+}
+h1 {
+    font-size: 32px;
+    color: blue;
+    text-align: center;
+}
+h2 {
+    font-size: 5 em;
+}
+.reference {
+    text-align: center;
+}
+.serious-eats {
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.homepage {
+    display: 0 auto;
+    text-align: center;
+    font-size: 28px;
+    color: blue;
+}
+.email {
+    display: 0 auto;
+    text-align: center;
+    font-size: 28px;
+    color: blue;
+}
+.contact{
+    display: 0 auto;
+    text-align: center;
+    font-size: 28px;
+    color: blue;
+
+}
+.ingredients {
+    margin-left: 30px;
+}
+.directions {
+    flex-wrap: wrap;
+}
+.photo {
+    font-size: 28px;
+    text-align: center;
+    color: blue;
+    font-style: bold;
+
+}
+.croissant-photo {
+border: 4px solid black;
+border-radius: 8px;
+max-width: 100%;
+height: auto;
+margin-left: 40px;
+margin-right: 40px;
+margin-top: 30px;
+ }
+.contact-me {
+    font-size: 32px;
+    text-align: center;
+    color: blue;
+    font-style: bold;
+    padding: 20px;
+}
